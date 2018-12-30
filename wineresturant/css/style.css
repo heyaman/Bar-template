@@ -1,0 +1,55 @@
+body{
+    height: 100%;
+}
+
+
+video{
+    
+    position: fixed;
+    
+    
+    
+
+    z-index: 1;
+    
+    top: 50%;
+    left: 50%;
+    margin-top: -50%;
+    margin-left: -50%;
+ 
+        
+        
+      
+}
+
+p{
+    font-family: 'Pacifico', cursive;
+    
+    color: #FFFCCF;
+}
+
+h1{
+    font-family: 'Charm', cursive;
+}
+a{
+    color: #FFFF01;
+    
+    
+    
+}
+
+div{
+    padding: 10px;
+    
+    background-color: #2C4047;
+    
+    
+/*    border: 2px solid red;*/
+    z-index: 2;
+    width: 700px;
+    border-radius: 15px;
+    text-align: center;
+    
+    margin: 50px auto;
+    position: relative;
+}
